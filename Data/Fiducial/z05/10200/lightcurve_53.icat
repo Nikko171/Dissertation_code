@@ -1,0 +1,12 @@
+rightascension 0
+declination 0
+azimuth 0
+altitude 89
+vistime 15.0
+nsnap 1
+moonalt -90.0
+filter 0
+mjd 712.00
+seed 100
+id 53
+object 1 0 0 10.59 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
