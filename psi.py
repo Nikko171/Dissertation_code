@@ -392,7 +392,7 @@ def pytfb_sub(taus,embh,emdot,wavang, deginc, t0vin=-1, t0iin = -1, alpha_visc =
         return(psis)
     
 ######################
-'''
+
 import csv
 
 wavref = [3650,4640,6580,8060,9000,10200]
@@ -432,7 +432,7 @@ for wav in redshift_wav2:
             csvwriter.writerow([tau, psi])
 
 #
-'''
+
 '''
 wavref = 4000.
 embhref   = 1.e8
