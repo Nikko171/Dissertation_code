@@ -1,0 +1,11 @@
+rightascension 	150.1000000
+declination 2.1819444
+mjd 60747
+filter 0
+obstime 15
+numexp 1
+moonalt -90
+obsid 0001
+seed 1000
+object 0 150.1000000 2.1819444 20 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 1 150.1000000 2.1919444 15 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
