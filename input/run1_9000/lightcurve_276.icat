@@ -1,0 +1,18 @@
+rightascension 150.1
+declination 2.1819444
+mjd 61299.0
+filter 0
+obstime 15
+numexp 1
+moonalt -90.0
+sunalt -90.0
+obsid 4
+seed 1000
+object 1 150.0 2.1819444 17.3323 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 2 150.1 2.1819444 18.6619 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 3 150.2 2.1819444 19.8357 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 4 150.08 2.1919443999999997 17.00 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 5 150.09 2.1919443999999997 18.00 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 6 150.10 2.1919443999999997 19.00 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 7 150.11 2.1919443999999997 20.00 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
+object 8 150.12 2.1919443999999997 21.00 ../sky/sed_flat.txt 0 0 0 0 0 0 star none none
